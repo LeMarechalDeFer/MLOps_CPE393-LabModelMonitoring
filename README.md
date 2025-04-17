@@ -1,4 +1,4 @@
-# CPE393-model-monitoring
+# CPE393-model-monitoring (References)
 
 https://github.com/evidentlyai/ml_observability_course
 
